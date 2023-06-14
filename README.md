@@ -12,4 +12,4 @@ Callback
 - Answer to the Requirements 
 
 Contract 
--- Add OTher Algorithms for Contract Signing
+- Add OTher Algorithms for Contract Signing
