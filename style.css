@@ -1,0 +1,15 @@
+.title {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.dashboard {
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+}
+
+.protocol-image {
+    cursor: pointer;
+}
