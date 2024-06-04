@@ -49,7 +49,7 @@
             card.addEventListener('click', (e) => {
                 const version = card.getAttribute('data-version');
                 localStorage.setItem("version", version)
-                window.location.href = 'doc.html';
+                window.location.href = `${version}`;
             });
         });
     </script>
